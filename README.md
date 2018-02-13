@@ -1,1 +1,2 @@
-# Hello-world
+# Hello-world just writing some stuff here.;...
+im trying to learn this stuff...it tells me to do this
